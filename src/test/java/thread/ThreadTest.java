@@ -1,5 +1,6 @@
+package thread;
+
 import org.junit.jupiter.api.Test;
-import thread.ThreadCreatorImplementedRunnable;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
